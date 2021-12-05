@@ -1,4 +1,4 @@
-"# Trig-Visualization"
+# Trig-Visualization
 
 # About
  This program was written using the simple Python GUI module, pygame. It also utilizes the math module from the Python standard library.
